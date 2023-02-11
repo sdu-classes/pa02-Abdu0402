@@ -1,5 +1,5 @@
 public class Main {
-            public static void main(String[] args)
+            public static void main(String[] args){
                 Shape s1 = new Shape();
                 s1.setColor("green");
                 s1.setFilled(false);
