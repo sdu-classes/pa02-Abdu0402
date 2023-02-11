@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "a",
+      "setup": "",
+      "run": "cd problem-A && javac *.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "b",
+      "setup": "",
+      "run": "cd problem-B && javac *.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "c",
+      "setup": "",
+      "run": "cd problem-C && javac *.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
